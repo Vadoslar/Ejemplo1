@@ -1,0 +1,16 @@
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\bin\Debug\net8.0-windows\Ejemplos.exe
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\bin\Debug\net8.0-windows\Ejemplos.deps.json
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\bin\Debug\net8.0-windows\Ejemplos.runtimeconfig.json
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\bin\Debug\net8.0-windows\Ejemplos.dll
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\bin\Debug\net8.0-windows\Ejemplos.pdb
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.Form1.resources
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.csproj.GenerateResource.cache
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.AssemblyInfoInputs.cache
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.AssemblyInfo.cs
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.dll
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\refint\Ejemplos.dll
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.pdb
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\Ejemplos.genruntimeconfig.cache
+C:\Users\Vadoslar\source\repos\Ejemplos\Ejemplos\obj\Debug\net8.0-windows\ref\Ejemplos.dll
